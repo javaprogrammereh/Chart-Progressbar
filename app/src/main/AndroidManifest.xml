@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ChartProgressbar">
-        <activity android:name=".ActivityAnyLine"></activity>
+        <activity android:name=".BarChartActivity"></activity>
+        <activity android:name=".CubicLineChartActivity" />
+        <activity android:name=".ActivitySemiCircularProgressBar" />
+        <activity android:name=".ActivityAnyLine" />
         <activity android:name=".ActivityRadar" />
         <activity android:name=".ActivityPhilJayLine" />
         <activity android:name=".ProgressbarActivity" />
